@@ -1,3 +1,4 @@
+
 ! [Salman Khan Kick] (https://github.com/BeingSeight/BeingSeight/blob/main/Salman%20Khan%20Kick%20.gif?raw=true)
 # 💫 About Me:
 -Hi 👋! My name is Sahil Shah (@BeingSeight) 🩵<br>-I'm from India (Mumbai) 📍<br>-I'm a Web3 and TON Developer 🌐<br>-I'm Currently learning C++ as part of my college curriculum 👾<br>-Open to collaborate to projects especially open-source, just drop me a mail or dm 🫡<br>-You can reach me on - LinkedIn: https://www.linkedin.com/in/beingseight or Mail me at: BeingSeight@gmail.com<br>-Pronouns: He/Him 😪
