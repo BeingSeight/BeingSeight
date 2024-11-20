@@ -1,4 +1,4 @@
-[! (https://pin.it/2T34XiapO)]
+! (https://i.pinimg.com/736x/99/63/e8/9963e8ee9cca8c8939982af6029449cf.jpg)
 # 💫 About Me:
 -Hi 👋! My name is Sahil Shah (@BeingSeight) 🩵<br>-I'm from India (Mumbai) 📍<br>-I'm a Web3 and TON Developer 🌐<br>-I'm Currently learning C++ as part of my college curriculum 👾<br>-Open to collaborate to projects especially open-source, just drop me a mail or dm 🫡<br>-You can reach me on - LinkedIn: https://www.linkedin.com/in/beingseight or Mail me at: BeingSeight@gmail.com<br>-Pronouns: He/Him 😪
 
