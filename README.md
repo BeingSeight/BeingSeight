@@ -1,7 +1,11 @@
 ![Salman Khan Kick gif](https://github.com/BeingSeight/BeingSeight/blob/250ca88ec4e01a9120538c95c9b58d2077f86cd8/Salman%20Khan%20Kick%20.gif) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Sahil+aka+Seight!;Web3+and+TON+Dev;as+of+now+learning+Java;finding+KICK+in+whatever+I+do!)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Sahil+aka+Seight!;Web3+and+TON+Dev;as+of+now+learning+Java;finding+KICK+in+whatever+I+do!)](https://git.io/typing-svg)
+
+
 -Hi 👋! My name is Sahil Shah (@BeingSeight) 🩵<br>-I'm from India (Mumbai) 📍<br>-I'm a Web3 and TON Developer 🌐<br>-I'm Currently learning Java as part of my college curriculum 👾<br>-Open to collaborate to projects especially open-source, just drop me a mail or dm 🫡<br>-You can reach me on - LinkedIn: https://www.linkedin.com/in/beingseight or Mail me at: BeingSeight@gmail.com<br>-Pronouns: He/Him 😪
 
 
