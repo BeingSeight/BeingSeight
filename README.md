@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=688&width=588&lines=I'm+Sahil+aka+Seight!;Web3+and+TON+Dev;as+of+now+learning+Java;finding+KICK+in+whatever+I+do!%E2%9A%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 
--Hi 👋! My name is Sahil Shah (@BeingSeight) 🩵<br>-I'm from India (Mumbai) 📍<br>-I'm a Web3 and TON Developer 🌐<br>-I'm Currently learning Java as part of my college curriculum 👾<br>-Open to collaborate to projects especially open-source, just drop me a mail or dm 🫡<br>-You can reach me on - LinkedIn: https://www.linkedin.com/in/beingseight or Mail me at: BeingSeight@gmail.com<br>-Pronouns: He/Him 😪
+-Hi 👋! My name is Sahil Shah (@BeingSeight) 🩵<br>-I'm from India (Mumbai) 📍<br>-I'm a Web3 and TON Developer 🌐<br>-I'm Currently learning Frontend as part of my college curriculum 👾<br>-Open to collaborate to projects especially open-source, just drop me a mail or dm 🫡<br>-You can reach me on - LinkedIn: https://www.linkedin.com/in/beingseight or Mail me at: BeingSeight@gmail.com<br>-Pronouns: He/Him 😪
 
 
 ## 🌐 Socials:
